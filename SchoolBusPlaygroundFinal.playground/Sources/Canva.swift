@@ -4,7 +4,7 @@ enum Direction {
     case left, right, downLeft, downRight
 }
 
-public class Canva: UIView {
+public class Canvas: UIView {
     var x = 0
     var y = 1
     var currentDirectionIndex = 0
