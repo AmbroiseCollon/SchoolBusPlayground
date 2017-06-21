@@ -30,4 +30,6 @@ PlaygroundPage.current.liveView = canvas
  `canvas.stopBus()`
  - 🚌🛑 Cette fonction permet de faire marquer un arrêt au bus.
 
- ## A vous de jo
+ ## A vous de jouer !
+ */
+

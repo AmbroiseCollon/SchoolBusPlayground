@@ -32,6 +32,7 @@ PlaygroundPage.current.liveView = canvas
  
  ## A vous de jouer !
  */
+
 class Bus {
     var driverName: String
     var seats = 20
